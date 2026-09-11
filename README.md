@@ -2,7 +2,8 @@
 
 Name: Liyan Luo  
 GitHub: `liyanluo-penn`  
-Repo: [ese5190f26-ws0-liyanluo](https://github.com/liyanluo-penn/ese5190f26-ws0-liyanluo)
+Repo: [ese5190f26-ws0-liyanluo](https://github.com/liyanluo-penn/ese5190f26-ws0-liyanluo)  
+Hardware: Windows laptop, ATmega328PB Xplained Mini development board, and course electronics components.
 
 ---
 
