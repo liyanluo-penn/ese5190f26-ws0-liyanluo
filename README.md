@@ -5,7 +5,6 @@ GitHub: `liyanluo-penn`
 Repo: [ese5190f26-ws0-liyanluo](https://github.com/liyanluo-penn/ese5190f26-ws0-liyanluo)  
 Hardware: Windows laptop, ATmega328PB Xplained Mini development board, and course electronics components.
 
----
 
 ## (R1)
 
@@ -17,7 +16,6 @@ Commit history screenshot:
 
 ![Commit history](images/commit_history.png)
 
----
 
 ## (R2)
 
@@ -29,7 +27,6 @@ For the CMB-6544PF electret microphone:
 
 The current consumption is specified with \(V_S = 4.5V\) and \(R_L = 1k\Omega\).
 
----
 
 ## (R3)
 
@@ -38,7 +35,6 @@ For the RMCF0603FT2K20 resistor:
 - Power rating at 70°C: **0.1 W**
 - Max working voltage: **75 V**
 
----
 
 ## (R4)
 
@@ -64,7 +60,6 @@ The maximum I/O leakage current is **1 µA**.
 
 Leakage current is the small amount of unwanted current that can still flow through a semiconductor input even when the pin is supposed to be high impedance.
 
----
 
 ## (R5)
 
@@ -84,7 +79,6 @@ So the minimum calculated resistance is **60 Ω**.
 
 A standard value such as **62 Ω or larger** would keep the current at or below the limit.
 
----
 
 ## (R6)
 
@@ -111,7 +105,6 @@ Part: **E-Switch TL2201OAYA**
 
 [DigiKey product listing](https://www.digikey.com/en/products/detail/e-switch/TL2201OAYA/583531)
 
----
 
 ## (R7)
 
