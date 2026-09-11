@@ -10,8 +10,6 @@ Repo: [ese5190f26-ws0-liyanluo](https://github.com/liyanluo-penn/ese5190f26-ws0-
 
 GitHub handle: `liyanluo-penn`
 
-I also submitted my GitHub handle through the course Google Form.
-
 ## (S1)
 
 Commit history screenshot:
